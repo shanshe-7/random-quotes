@@ -25,8 +25,6 @@
 }
 
 .button {
-    background-color: #3e2723;
-    color: #ff9800;
     justify-content: end;
     margin-bottom: 1em;
     font-size: 1.1em;
@@ -40,11 +38,7 @@
     display: flex;
     justify-content: space-between;
 }
-.button:hover {
-    background-color: #311b92;
-    color: white;
 
-}
 
 .tweetter{
    
