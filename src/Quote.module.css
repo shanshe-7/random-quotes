@@ -29,10 +29,10 @@
     color: #ff9800;
     justify-content: end;
     margin-bottom: 1em;
-    font-size: 0.9em;
+    font-size: 1.1em;
     text-align: end;
     margin-right: 3em;
-    border-radius: 3%;
+    border-radius: 5%;
 }
 
 .buttons {
