@@ -14,19 +14,19 @@
     margin-left: 2%;
     margin-right: 2%;
     font-size: 1.3em;
-    
+    font-family: 'Pangolin', Arial, Helvetica, sans-serif;
 }
 
 .par2{
     font-size: 1.1em;
     text-align: end;
     margin-right: 3em;
-
+    font-family: 'Courgette', Arial, Helvetica, sans-serif;
 }
 
 .button {
-    background-color: rgb(241, 239, 113);
-    color: rgb(59, 45, 100);
+    background-color: #ffee58;
+    color: #311b92;
     justify-content: end;
     margin-bottom: 1em;
     font-size: 1.3em;
@@ -40,7 +40,7 @@
     justify-content: space-between;
 }
 .button:hover {
-    background-color: green;
+    background-color: #76ff03;
     color: white;
 
 }
