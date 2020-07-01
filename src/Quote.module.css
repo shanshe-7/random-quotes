@@ -25,13 +25,14 @@
 }
 
 .button {
-    background-color: #ffee58;
-    color: #311b92;
+    background-color: #dd2c00;
+    color: white;
     justify-content: end;
     margin-bottom: 1em;
-    font-size: 1.3em;
+    font-size: 1.1em;
     text-align: end;
     margin-right: 3em;
+    border-radius: 3%;
 }
 
 .buttons {
@@ -40,7 +41,7 @@
     justify-content: space-between;
 }
 .button:hover {
-    background-color: #76ff03;
+    background-color: #3e2723;
     color: white;
 
 }

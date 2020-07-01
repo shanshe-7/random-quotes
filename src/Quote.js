@@ -32,7 +32,7 @@ function Quotes() {
     return(
         
         <div id="quote-box" className={classes.body}>
-            {loading ? <Loader type="Puff" color="#ff3d00" height={200} width={200} /> :
+            {loading ? <Loader type="Puff" color="#1b5e20" height={200} width={200} /> :
                 <>
                     <p  className={classes.par1} id="text">{`" ${quote} "`}</p>
                     <p className={classes.par2}  id="author">{`- ${author}`}</p>
